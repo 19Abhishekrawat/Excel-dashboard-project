@@ -16,7 +16,7 @@ This project analyzes Swiggy sales data using Excel to identify trends, customer
 - Top Performing City
 
 ## Key Insights
-- Peak order time occurs during evening hours
+- Weekly Sales Trend
 - Certain cities contribute highest revenue
 
 ## File
