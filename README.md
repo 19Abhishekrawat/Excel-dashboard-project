@@ -13,7 +13,7 @@ This project analyzes Swiggy sales data using Excel to identify trends, customer
 - Total Orders
 - Total Revenue
 - Average Order Value
-- Top Performing City
+- Average Rating / Rating Count 
 
 ## Key Insights
 - Weekly Sales Trend
