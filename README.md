@@ -23,4 +23,4 @@ This project analyzes Swiggy sales data using Excel to identify trends, customer
 - Swiggy_Dashboard.xlsx
 
 ## Dashboard Preview
-! [Swiggy Dashboard](Dashboard.png)
+ [Swiggy Dashboard](Dashboard.png)
