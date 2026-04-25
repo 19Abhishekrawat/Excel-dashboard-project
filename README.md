@@ -17,6 +17,7 @@ This project analyzes Swiggy sales data using Excel to identify trends, customer
 
 ## Key Insights
 - Weekly Sales Trend
+- Daily Sales Trend
 - Certain cities contribute highest revenue
 
 ## File
